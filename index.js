@@ -1,3 +1,2 @@
-// index.js
-console.log("Primer cambio: probando CI/CD con GitHub Actions.");
+console.log("Primer cambio: Validar acciones con YML.");
 
