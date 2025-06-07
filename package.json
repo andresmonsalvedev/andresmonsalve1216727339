@@ -1,0 +1,11 @@
+{
+  "name": "andresmonsalve1216727339",
+  "version": "1.0.0",
+  "description": "Proyecto Aplicaciones y Servicios Web para CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Andres Monsalve",
+  "license": "ISC"
+}
